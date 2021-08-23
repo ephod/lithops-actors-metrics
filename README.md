@@ -1,5 +1,7 @@
 # Lithops Actor Model metrics
 
+Each CSV file contains average pings per second per execution.
+
 ## Environment
 
 ### Benchmarking
